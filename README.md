@@ -49,6 +49,7 @@ IP-guard 其实由两个模块组成. 加密系统和解密系统
 
 #### 禁用数字证书
 1. 步骤一：启动命令行工
+
 ![image](https://github.com/lion117/FuckIPGuard_E/blob/master/pic/7.1.jpg)
 
 2. 步骤：定位到软件限制策略
@@ -72,9 +73,11 @@ IP-guard 其实由两个模块组成. 加密系统和解密系统
 ![image](https://github.com/lion117/FuckIPGuard_E/blob/master/pic/11.1.jpg)
 
 7. 步骤：
+
 ![image](https://github.com/lion117/FuckIPGuard_E/blob/master/pic/12.1.jpg)
 
 8.步骤：选择不允许,则加密模块将被禁用.重启电脑后,加密模块将无法运行. 如需恢复,则只需按照以上流程选择允许即可恢复加密模块正常运行
+
 ![image](https://github.com/lion117/FuckIPGuard_E/blob/master/pic/13.1.jpg)
 
 # 技术免责声明
