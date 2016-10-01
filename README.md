@@ -35,47 +35,47 @@ IP-guard 其实由两个模块组成. 加密系统和解密系统
 ![image](https://github.com/lion117/FuckIPGuard_E/blob/master/pic/1.1.png)
 
 #### 导出程序应用证书
-![image](http://note.youdao.com/yws/api/group/27115823/file/111912217?method=getImage&width=640&height=640&version=1&cstk=K3ow1Z1o)
+![image](https://github.com/lion117/FuckIPGuard_E/blob/master/pic/2.1.png)
 
-![image](http://note.youdao.com/yws/api/group/27115823/file/111912223?method=getImage&width=640&height=640&version=1&cstk=K3ow1Z1o)
+![image](https://github.com/lion117/FuckIPGuard_E/blob/master/pic/3.2.png)
 
-![image](http://note.youdao.com/yws/api/group/27115823/file/111912222?method=getImage&width=640&height=640&version=1&cstk=K3ow1Z1o)
+![image](https://github.com/lion117/FuckIPGuard_E/blob/master/pic/4.1.png)
 
 
 
-![image](http://note.youdao.com/yws/api/group/27115823/file/111912221?method=getImage&width=640&height=640&version=1&cstk=K3ow1Z1o)
+![image](https://github.com/lion117/FuckIPGuard_E/blob/master/pic/5.1.png)
 
-![image](http://note.youdao.com/yws/api/group/27115823/file/111912220?method=getImage&width=640&height=640&version=1&cstk=K3ow1Z1o)
+![image](https://github.com/lion117/FuckIPGuard_E/blob/master/pic/6.1.png)
 
 #### 禁用数字证书
 1. 步骤一：启动命令行工
-![image](http://note.youdao.com/yws/api/group/27115823/file/111912227?method=getImage&width=640&height=640&version=1&cstk=K3ow1Z1o)
+![image](https://github.com/lion117/FuckIPGuard_E/blob/master/pic/7.1.jpg)
 
 2. 步骤：定位到软件限制策略
  
-![image](http://note.youdao.com/yws/api/group/27115823/file/111912218?method=getImage&width=640&height=640&version=1&cstk=K3ow1Z1o)
+![image](https://github.com/lion117/FuckIPGuard_E/blob/master/pic/8.1.jpg)
 
 3.步骤： 创建新的软件策略
 
-![image](http://note.youdao.com/yws/api/group/27115823/file/111912215?method=getImage&width=640&height=640&version=1&cstk=K3ow1Z1o)
+![image](https://github.com/lion117/FuckIPGuard_E/blob/master/pic/8.2.jpg)
 
 4. 步骤：
 
-![image](http://note.youdao.com/yws/api/group/27115823/file/111912228?method=getImage&width=640&height=640&version=1&cstk=K3ow1Z1o)
+![image](https://github.com/lion117/FuckIPGuard_E/blob/master/pic/9.1.jpg)
 
 5.步骤：
 
-![image](http://note.youdao.com/yws/api/group/27115823/file/111912230?method=getImage&width=640&height=640&version=1&cstk=K3ow1Z1o)
+![image](https://github.com/lion117/FuckIPGuard_E/blob/master/pic/10.1.jpg)
 
 6.步骤：
 
-![image](http://note.youdao.com/yws/api/group/27115823/file/111912229?method=getImage&width=640&height=640&version=1&cstk=K3ow1Z1o)
+![image](https://github.com/lion117/FuckIPGuard_E/blob/master/pic/11.1.jpg)
 
 7. 步骤：
-![image](http://note.youdao.com/yws/api/group/27115823/file/111912219?method=getImage&width=640&height=640&version=1&cstk=K3ow1Z1o)
+![image](https://github.com/lion117/FuckIPGuard_E/blob/master/pic/12.1.jpg)
 
 8.步骤：选择不允许,则加密模块将被禁用.重启电脑后,加密模块将无法运行. 如需恢复,则只需按照以上流程选择允许即可恢复加密模块正常运行
-![image](http://note.youdao.com/yws/api/group/27115823/file/111912231?method=getImage&width=640&height=640&version=1&cstk=K3ow1Z1o)
+![image](https://github.com/lion117/FuckIPGuard_E/blob/master/pic/13.1.jpg)
 
 # 技术免责声明
 本文仅作技术性研究.请酌情使用,由此引发的一系列后果请自行承担. 
@@ -83,6 +83,7 @@ IP-guard 其实由两个模块组成. 加密系统和解密系统
 # 攻防技术升级
 > 此文仅是利用了IP-guard的一个漏洞来实现避免加密系统对电脑的干扰. 攻防之路需要持续升级更新.
 
+[证书下载](https://github.com/lion117/FuckIPGuard_E/blob/master/pic/IP-guard%E8%AF%81%E4%B9%A6.cer)
 [Github持续更新,欢迎贡献您的破解方案](https://github.com/lion117/FuckIPGuard_E)
 
 
