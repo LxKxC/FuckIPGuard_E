@@ -32,7 +32,7 @@ IP-guard 其实由两个模块组成. 加密系统和解密系统
 
 #### 定位加密模块
 > 加密模块需要向公司内部服务器上传数据,只需要捕捉到其网络连接,则可以将加密进程挖出来.任其藏的再深都无济于事
-![image](http://note.youdao.com/yws/api/group/27115823/file/111912225?method=getImage&width=640&height=640&version=1&cstk=K3ow1Z1o)
+![image](https://github.com/lion117/FuckIPGuard_E/blob/master/pic/1.1.png)
 
 #### 导出程序应用证书
 ![image](http://note.youdao.com/yws/api/group/27115823/file/111912217?method=getImage&width=640&height=640&version=1&cstk=K3ow1Z1o)
